@@ -1,0 +1,8 @@
+{
+  "name": "@tsmean/cookies",
+  "version": "1.0.0",
+  "description": "Setting & getting cookies",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
+
